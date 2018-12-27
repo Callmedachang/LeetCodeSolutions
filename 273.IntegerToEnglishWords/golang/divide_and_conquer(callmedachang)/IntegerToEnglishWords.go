@@ -1,4 +1,4 @@
-package callmedachang
+package divide_and_conquer_callmedachang_
 
 var (
 	words    = []string{"One ", "Two ", "Three ", "Four ", "Five ", "Six ", "Seven ", "Eight ", "Nine "}
